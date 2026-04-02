@@ -1,4 +1,4 @@
-# Terni [EEE]
+# Terni EEE
 Terni is a person dedicated to creating whatever he wants, whether its applications, like Cobra Minus, entertainment films, like The Bloxxers or documentaries, coming soon.
 
 The EEE stands for:
