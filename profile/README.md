@@ -9,7 +9,7 @@ The EEE stands for:
 ## Essentials
 In this section, applications/tools are coded and made to make things easier for you. The open source ones are published here, on Terni EEE.
 
-Currently, our only ongoing application is Cobra Minus [https://github.com/Terni-EEE/cobra-minus-terni].
+Currently, our only ongoing application is Cobra Minus [https://github.com/Terni-EEE/cobra-minus-0c-terni].
 
 ## Education
 [COMING SOON]
